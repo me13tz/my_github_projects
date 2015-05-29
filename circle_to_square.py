@@ -15,8 +15,8 @@ area_string = str(area_circle)
 
 #print("%.2f" % a)
 print ("The Area of the circle is %.2f" % area_circle)
-print ("Diameter: %.2f" % diam)
-print ("Radius: %.2f" % radius)
+print ("Its diameter is: %.2f" % diam)
+print ("Its radius is: %.2f" % radius)
 print()
 
 print ("The length of the side of a square with the same area is %.2f" % squareside)
