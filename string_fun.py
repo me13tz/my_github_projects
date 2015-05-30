@@ -40,14 +40,18 @@ print(m)
 print()
 str1=' '.join(m)
 str2='.'.join(m)
+str3='*'.join(m)
+str4=''.join(m)
 print()
 print(str1)
 print(str2)
+print(str3)
+print(str4)
 print()
 if 'heaven' in str2:
     print('Found it!')
 print()
 print(m)
 for word in m:
-    sys.stdout.write(word[-1]) ###this prints it all on the same line, from a list
+    sys.stdout.write(word[-1]) ###prints it all on the same line, from a list
 
