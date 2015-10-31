@@ -7,6 +7,6 @@ pattern recognition and an ability to digest new technologies rapidly. Top notch
 
 I'm hoping to land a job in or near Boston, MA within the next year as an entry-level developer. My self-study has leaned toward data, using pandas via the Anaconda distribution, but I'm up for just about anything.  
 
-If you would like to get in touch with me, email me at: me33tz@gmail.com. 
+If you would like to get in touch with me, email me at me33tz@gmail.com. 
 
 Josh Metz
