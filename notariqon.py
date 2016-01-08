@@ -1,5 +1,8 @@
 f = open('C:\\Users\blahblah\blahblah\blahblah\blahblah\output.txt', 'w')
 
+## For a range of positive integers, this script adds the number to its own 
+## mirror image. For example, 123+321 = 444
+
 for i in range(1, 4004):
     i = str(i)
     if len(i) == 1:
