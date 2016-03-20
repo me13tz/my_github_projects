@@ -237,4 +237,4 @@ for sentence in clean_sentences:
     else:
         pass
 
-    print('\n'*8)
+    print('\n'*3)
