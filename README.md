@@ -6,6 +6,4 @@ Top notch English skills, both written and verbal. I also have a talent for expl
 
 I'm hoping to land a job within the next year as an entry-level Python developer. My self-study has leaned toward data using the Anaconda distribution, but I'm also learning Xcode/Swift.
 
-Cheers,
-Josh Metz
 me33tz@gmail.com
