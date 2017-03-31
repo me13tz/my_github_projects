@@ -4,6 +4,6 @@ pattern recognition and an ability to digest new technologies rapidly.
 
 Top notch English skills, both written and verbal. I also have a talent for explaining technology to people who don't understand technology. 
 
-I'm hoping to land a job within the next year as an entry-level Python developer. My self-study has led me to develop code on all platforms, with Linux being my favorite. Seeking a mentor-student situation to learn the ropes and be the best developer I can be. 
+I'm hoping to land a job within the next year as an entry-level Python developer. My self-study has led me to develop code on all platforms, with Linux being my favorite. Seeking an employment situation where I can learn the ropes and be the best developer I can be. 
 
 me33tz@gmail.com
